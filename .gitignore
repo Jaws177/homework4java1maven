@@ -5,7 +5,7 @@ target/
 
 ### Homework ###
 .idea
-pom.xml
+.iml
 .target
 
 ### IntelliJ IDEA ###

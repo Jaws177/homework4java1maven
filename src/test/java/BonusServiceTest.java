@@ -41,7 +41,7 @@ public class BonusServiceTest {
 
         long amount = 1_000;
         boolean registered = false;
-        long expected = 30;
+        long expected = 10;
 
         long actual = service.calculate(amount, registered);
         Assertions.assertEquals(expected, actual);
